@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+A:\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+A:\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(144,3): error C2360: пропуск инициализации "factorial" из-за метки "case"
+A:\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(132,11): message : см. объявление "factorial"
+A:\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(147,3): error C2361: пропуск инициализации "factorial" из-за метки "default"
+A:\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(132,11): message : см. объявление "factorial"
